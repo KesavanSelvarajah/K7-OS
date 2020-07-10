@@ -1,2 +1,2 @@
-# Mike-OS-by-K7N
+# K7OS
 A Simple Operating System created with Assembly Language to show Hardware Details.
